@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 3,
-  "latest_version_name": "1.0.2",
-  "apk_url": "https://github.com/kevinkactive-droid/stepsync-updates/releases/download/v1.0.2/app-release.apk",
-  "release_notes": "- Update dialog UI improved\n- Login/Registration restored\n- Profile fields restored",
+  "latest_version_code": 4,
+  "latest_version_name": "1.0.3",
+  "apk_url": "https://github.com/kevinkactive-droid/stepsync-updates/releases/download/v1.0.3/app-release.apk",
+  "release_notes": "- Whats New popup after update\n- More visible update card\n- Tracking auto-centers to live GPS + GPS button",
   "force_update": false,
   "min_supported_version_code": 1
 }
