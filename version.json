@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 7,
-  "latest_version_name": "1.0.6",
-  "apk_url": "https://github.com/kevinkactive-droid/stepsync-updates/releases/download/v1.0.6/app-release.apk",
-  "release_notes": "- Track map centers to live GPS\n- Steps/Goal pill fixed\n- Steps goal auto-stop\n- Reminder notifications",
+  "latest_version_code": 8,
+  "latest_version_name": "1.0.7",
+  "apk_url": "https://github.com/kevinkactive-droid/stepsync-updates/releases/download/v1.0.7/app-release.apk",
+  "release_notes": "- Fixes and improvements",
   "force_update": false,
   "min_supported_version_code": 1
 }
