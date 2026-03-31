@@ -3,6 +3,6 @@
   "latest_version_name": "1.1.0",
   "apk_url": "https://github.com/kevinkactive-droid/stepsync-updates/releases/download/v1.1.0/app-release.apk",
   "release_notes": "- PhotoSync: share activity with photo overlays\n- UI: Goal now visible in Home and Track areas\n- Live GPS: Map now centers correctly on your location\n- Calendar: Improved reminder notifications",
-  "force_update": false,
-  "min_supported_version_code": 6
+  "force_update": true,
+  "min_supported_version_code": 10
 }
