@@ -1,8 +1,7 @@
 {
-  "latest_version_code": 12,
-  "latest_version_name": "1.0.12",
-  "apk_url": "https://github.com/kevinkactive-droid/stepsync-updates/releases/download/v1.0.12/app-release.apk",
-  "release_notes": "- Messaging: Fix import collisions and type errors\n- Privacy: Added Profile Lock/Open toggle\n- Contacts: Long-press to remove friends\n- Live Features: Improved GPS sharing stability",
-  "force_update": true,
-  "min_supported_version_code": 12
+  "version": "1.0.13",
+  "build_number": 13,
+  "download_url": "https://drive.google.com/file/d/IMONG_LINK_DIRI/view",
+  "release_notes": "🚀 StepSync v1.0.13 Major Update\n\n• New OTP Security Enhancement\n• Fixed: Black screen bugs in Contacts\n• Fixed: Alarms and Reminder notifications\n• Upgraded: Camera & Live GPS Location in Chats!\n• Fixed: Usernames UI\n\nPlease update to continue using the app.",
+  "force_update": true
 }
