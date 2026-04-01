@@ -4,5 +4,5 @@
   "apk_url": "https://github.com/kevinkactive-droid/stepsync-updates/releases/download/v1.0.15/app-release.apk",
   "min_supported_version_code": 14,
   "force_update": true,
-  "release_notes": "🚀 StepSync v1.0.15 Security Update\n\n• New: 8-Digit OTP Verification Fallback\n• Upgraded: Removed rate limits for Unli-Registration (Custom SMTP Setup)\n• Improved: Email magic links and UI Layout optimizations.\n\nPlease update to continue using the app smoothly."
+  "release_notes": "🚀 StepSync v1.0.15 Stability Update\n\n• New: 8-Digit OTP Verification Fallback\n• Upgraded: Removed rate limits for Unli-Registration (Custom SMTP Setup)\n• Improved: Fixed update looping & download timeouts\n\nPlease update to continue using the app smoothly."
 }
