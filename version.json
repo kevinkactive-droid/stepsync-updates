@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 16,
-  "latest_version_name": "1.0.16",
-  "apk_url": "https://github.com/kevinkactive-droid/stepsync-updates/releases/download/v1.0.16/app-release.apk",
-  "release_notes": "- Community Feedback Wall\n- Mapbox Location Previews in Chat\n- Snapchat-style Transient Media (Photos & Videos)\n- Cloud-Synced Profile Pictures\n- Live GPS High Accuracy Fix\n- Fresh Database Start\n- Friend Request Fix",
-  "force_update": true,
+  "latest_version_code": 20,
+  "latest_version_name": "1.0.17",
+  "apk_url": "https://github.com/kevinkactive-droid/stepsync-updates/releases/download/v1.0.17/app-release.apk",
+  "release_notes": "- Android Smoothness & Lag Fixes\n- 1-Hour Media Auto-Delete\n- Media Preview with Captions\n- Group Admin Kick Powers\n- Editable Group Profiles\n- Add Any User to Groups\n- Glassmorphism Gallery Redesign\n- Advanced Date Grouping for Gallery\n- Dynamic Timezone Fix for Reminders\n- Save to Gallery & Mapbox sharing toggles\n- Unread Notification Badges\n- Premium UI Adjustments",
+  "force_update": false,
   "min_supported_version_code": 16
 }
