@@ -1,21 +1,8 @@
 {
-  "version": "1.0.16",
-  "buildNumber": 16,
-  "minBuildNumber": 1,
-  "url": "https://github.com/kevinkactive-droid/StepSync/releases/download/v1.0.16/stepsync-v1.0.16.apk",
-  "changelog": [
-    "Friend Request Restoration - Fixed blank screen issue in requests",
-    "Provider Alignment - Added user_id/friend_id aliases for proper data flow",
-    "UI Cleanup - Removed FutureBuilders for faster loading",
-    "Data Consistency - Enriched friendsStream with friend_id, friend_name, friend_username",
-    "Chat Avatars - Dynamic profile picture fetching for messages",
-    "Own message avatar now reacts to profile changes via context.watch",
-    "Snapchat-style Transient Media (Photos & Videos)",
-    "Free Cloudinary Media Storage Integration",
-    "Cloud-Synced Profile Pictures (Visible in Chat!)",
-    "Integrated Mapbox Location Previews (No Google Maps links!)",
-    "Live GPS Accuracy Improvement (High Accuracy Fix)",
-    "User Feedback Wall (Community Suggestions)",
-    "Fresh Database Start (New account required for v1.0.16)"
-  ]
+  "latest_version_code": 16,
+  "latest_version_name": "1.0.16",
+  "apk_url": "https://github.com/kevinkactive-droid/stepsync-updates/releases/download/v1.0.16/app-release.apk",
+  "release_notes": "- Community Feedback Wall\n- Mapbox Location Previews in Chat\n- Snapchat-style Transient Media (Photos & Videos)\n- Cloud-Synced Profile Pictures\n- Live GPS High Accuracy Fix\n- Fresh Database Start\n- Friend Request Fix",
+  "force_update": true,
+  "min_supported_version_code": 16
 }
