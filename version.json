@@ -1,6 +1,7 @@
-{
-  "version": "1.0.18",
+{ 
+  
   "buildNumber": 21,
+  "version": "1.0.18",
   "url": "https://github.com/kevinkactive-droid/StepSync/releases/download/v1.0.18/stepsync-v1.0.18.apk",
   "changelog": [
     "Social Feature Stabilizing - Hardened friends and requests streams to prevent loading hangs.",
