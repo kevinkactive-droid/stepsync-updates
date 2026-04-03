@@ -1,14 +1,8 @@
-{ 
-  
-  "buildNumber": 21,
-  "version": "1.0.18",
-  "url": "https://github.com/kevinkactive-droid/StepSync/releases/download/v1.0.18/stepsync-v1.0.18.apk",
-  "changelog": [
-    "Social Feature Stabilizing - Hardened friends and requests streams to prevent loading hangs.",
-    "Contact Identification - Primary focus on unique @usernames to avoid 'Unknown' name issues.",
-    "Ultra-Clean Map View - Removed all Mapbox watermarks, logos, and Scale Bars for a premium experience.",
-    "Overflow & Layout Fixes - Wrapped social screens in SingleChildScrollView to resolve pixel errors.",
-    "User Validation - Improved registration logic to prevent spaces in @usernames.",
-    "Code Clean-up - Resolved all lint warnings and structural errors for the final build."
-  ]
+{
+  "latestVersionCode": 21,
+  "latestVersionName": "1.0.18",
+  "apkUrl": "https://github.com/kevinkactive-droid/StepSync/releases/download/v1.0.18/stepsync-v1.0.18.apk",
+  "releaseNotes": "Social Feature Stabilizing, Contact Identification priority, Ultra-Clean Map View (no watermarks), and major Code Clean-up.",
+  "forceUpdate": false,
+  "minSupportedVersionCode": 20
 }
