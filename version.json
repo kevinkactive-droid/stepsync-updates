@@ -1,5 +1,5 @@
 {
-  "latestVersionCode": 21,
+  "latestVersionCode": 18,
   "latestVersionName": "1.0.18",
   "apkUrl": "https://github.com/kevinkactive-droid/StepSync/releases/download/v1.0.18/stepsync-v1.0.18.apk",
   "releaseNotes": "Social Feature Stabilizing - Hardened friends and requests streams. Contact Identification - Focus on unique @usernames. Ultra-Clean Map View - Removed all Mapbox watermarks and scale bars. Overflow & Layout Fixes - Improved scrolling and fixed pixel errors. Code Clean-up - 0 lint warnings.",
