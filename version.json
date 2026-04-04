@@ -1,6 +1,6 @@
 {
-  "latest_version_code": 2,
-  "latest_version_name": "1.0.1",
-  "apk_url": "https://github.com/kevinkactive-droid/stepsync-updates/releases/download/v1.0.1/app-release.apk",
-  "release_notes": "• Test update"
+  "latest_version_code": 20,
+  "latest_version_name": "1.0.0",
+  "apk_url": "https://github.com/kevinkactive-droid/stepsync-updates/releases/download/v1.0.0/app-release.apk",
+  "release_notes": "• Official Launch"
 }
